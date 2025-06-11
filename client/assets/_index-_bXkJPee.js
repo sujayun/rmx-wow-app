@@ -1,0 +1,1 @@
+import{j as e}from"./jsx-runtime-0DLF9kdB.js";const n=()=>[{title:"Wow Remix App"},{name:"description",content:"Welcome to Website!"}];function o(){return e.jsx("center",{children:e.jsx("h1",{children:"Wow Working, Welcome to website"})})}export{o as default,n as meta};
